@@ -1,0 +1,19 @@
+{
+  "name": "blueman",
+  "version": "1.0.0",
+  "description": "A Bluetooth device management tool",
+  "main": "blueman.js",
+  "scripts": {
+    "start": "node blueman.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bluetooth", "device", "management", "cli"],
+  "author": "itssadyboy",
+  "license": "MIT",
+  "bin": {
+    "blueman": "./blueman.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
