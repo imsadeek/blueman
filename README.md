@@ -1,3 +1,11 @@
+# Blueman
+
+A Bluetooth device management tool for Node.js.
+
+## Installation
+
+```bash
+npm install -g blueman
 # SaneX Web Application
 
 A Flask-based web application for production and sales management with SQLite database.
